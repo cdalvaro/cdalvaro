@@ -7,7 +7,7 @@
 <a href="https://keybase.io/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/keybase.svg" alt="cdalvaro" height="24px" hspace="5px" /></a>
 <a href="https://www.reddit.com/user/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/reddit.svg" alt="cdalvaro" height="24px" hspace="5px" /></a>
 
-I'm a theoretical physicist who enjoys programming and contributing to open-source projects such as [@saltstack](https://github.com/saltstack) or [@Homebrew](https://github.com/Homebrew)
+I'm a [theoretical physicist](https://github.com/cdalvaro/theoretical-physics-master-thesis) who enjoys programming and contributing to open-source projects such as [@saltstack](https://github.com/saltstack) or [@Homebrew](https://github.com/Homebrew)
 
 - 👨‍💻 I work as software engineer and team lead at [@Meteologica](http://www.meteologica.com) developing and improving Meteologica's infrastructure and forecast algorithms
 - 🚀 I actively maintain my docker project [saltstack-master](https://github.com/cdalvaro/saltstack-master) up-to-date with every release of [saltstack/salt](https://github.com/saltstack/salt)
