@@ -1,11 +1,14 @@
 # Hi, I'm [Carlos](https://cdalvaro.io) 👋
 
-<a href="https://www.linkedin.com/in/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/linkedin.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
-<a href="https://twitter.com/cdaIvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/twitter.svg" alt="cdaIvaro" title="@cdaIvaro" height="24px" hspace="5px" /></a>
-<a href="https://app.pluralsight.com/profile/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/pluralsight.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
-<a href="https://stackoverflow.com/users/3398062"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/stackoverflow.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
-<a href="https://keybase.io/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/keybase.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
-<a href="https://www.reddit.com/user/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/reddit.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+<div>
+  <a href="https://www.linkedin.com/in/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/linkedin.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+  <a href="https://twitter.com/cdaIvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/twitter.svg" alt="cdaIvaro" title="@cdaIvaro" height="24px" hspace="5px" /></a>
+  <a href="https://app.pluralsight.com/profile/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/pluralsight.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+  <a href="https://stackoverflow.com/users/3398062"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/stackoverflow.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+  <a href="https://keybase.io/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/keybase.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+  <a href="https://www.reddit.com/user/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/reddit.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+  <a href="https://cdalvaro.io"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/cdalvaro.svg" alt="cdalvaro" title="cdalvaro" height="100px" hspace="5px" align="right"/></a>
+</div>
 
 - 👨‍🎓 I'm a [theoretical physicist](https://github.com/cdalvaro/theoretical-physics-master-thesis) who enjoys programming and contributing to open-source projects
 - 👨‍💻 I work as software engineer and team lead at [@Meteologica](http://www.meteologica.com), developing and improving Meteologica's infrastructure and forecast algorithms
