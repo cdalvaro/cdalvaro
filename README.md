@@ -10,6 +10,8 @@
   <a href="https://cdalvaro.io"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/cdalvaro.svg" alt="cdalvaro" title="cdalvaro" height="100px" hspace="5px" align="right"/></a>
 </div>
 
+<br>
+
 - 👨‍🎓 I'm a [theoretical physicist](https://github.com/cdalvaro/theoretical-physics-master-thesis) who enjoys programming and contributing to open-source projects
 - 👨‍💻 I work as software engineer and team lead at [@Meteologica](http://www.meteologica.com), developing and improving Meteologica's infrastructure and forecast algorithms
 - 🚀 I actively maintain my docker project [docker-salt-master](https://github.com/cdalvaro/docker-salt-master) up-to-date with every release of [saltstack/salt](https://github.com/saltstack/salt)
