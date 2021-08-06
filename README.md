@@ -7,6 +7,7 @@
   <a href="https://stackoverflow.com/users/3398062"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/stackoverflow.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
   <a href="https://keybase.io/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/keybase.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
   <a href="https://www.reddit.com/user/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/reddit.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+  <a href="https://www.twitch.tv/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/twitch.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
   <a href="https://cdalvaro.io"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/cdalvaro.svg" alt="cdalvaro" title="cdalvaro" height="100px" hspace="5px" align="right"/></a>
 </div>
 
@@ -21,6 +22,7 @@
   - [Swift](https://github.com/apple/swift) programming language: [hacking with Swift](https://github.com/cdalvaro/hacking-with-swift)
   - [Ruby](https://github.com/ruby/ruby) programming language: [notebooks](https://github.com/cdalvaro/ruby-notebooks)
 - 🎽 I love all kind of sports, but especially calisthenics and running
+- 🎮 Beginner [Fortnite](https://www.epicgames.com/fortnite/en-US/home) player
 
 ## Languages and Tools
 
