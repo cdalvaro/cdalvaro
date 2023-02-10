@@ -1,13 +1,16 @@
 # Hi, I'm [Carlos](https://cdalvaro.io) 👋
 
 <div>
-  <a href="https://www.linkedin.com/in/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/linkedin.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+  <a href="https://github.com/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/github.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+  <a rel="me" href="https://mastodon.social/@cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/mastodon.svg" alt="cdalvaro" title="@cdalvaro@mastodon.social" height="24px" hspace="5px" /></a>
   <a href="https://twitter.com/cdaIvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/twitter.svg" alt="cdaIvaro" title="@cdaIvaro" height="24px" hspace="5px" /></a>
-  <a href="https://app.pluralsight.com/profile/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/pluralsight.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+  <a href="https://www.linkedin.com/in/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/linkedin.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
   <a href="https://stackoverflow.com/users/3398062"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/stackoverflow.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
-  <a href="https://keybase.io/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/keybase.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+  <a href="https://app.pluralsight.com/profile/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/pluralsight.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+  <a href="https://www.instagram.com/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/instagram.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
   <a href="https://www.reddit.com/user/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/reddit.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
   <a href="https://www.twitch.tv/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/twitch.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
+  <a href="https://keybase.io/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/keybase.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
   <a href="https://cdalvaro.io"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/cdalvaro.svg" alt="cdalvaro" title="cdalvaro" height="100px" hspace="5px" align="right"/></a>
 </div>
 
