@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/github.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
-  <a rel="me" href="https://mastodon.social/@cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/mastodon.svg" alt="cdalvaro" title="@cdalvaro@mastodon.social" height="24px" hspace="5px" /></a>
+  <a rel="me" href="https://fosstodon.org/@cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/mastodon.svg" alt="cdalvaro" title="@cdalvaro@fosstodon.org" height="24px" hspace="5px" /></a>
   <a href="https://twitter.com/cdaIvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/twitter.svg" alt="cdaIvaro" title="@cdaIvaro" height="24px" hspace="5px" /></a>
   <a href="https://www.linkedin.com/in/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/linkedin.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
   <a href="https://stackoverflow.com/users/3398062"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/stackoverflow.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
