@@ -10,7 +10,6 @@
   <a href="https://www.instagram.com/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/instagram.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
   <a href="https://www.reddit.com/user/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/reddit.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
   <a href="https://www.twitch.tv/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/twitch.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
-  <a href="https://keybase.io/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/keybase.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
   <a href="https://cdalvaro.io"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/cdalvaro.svg" alt="cdalvaro" title="cdalvaro" height="100px" hspace="5px" align="right"/></a>
 </div>
 
