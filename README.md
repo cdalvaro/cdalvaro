@@ -22,7 +22,7 @@
 - 🌱 I'm currently learning:
   - [Machine Learning](https://www.unir.net/ingenieria/master-inteligencia-artificial/): [master thesis](https://github.com/cdalvaro/machine-learning-master-thesis) and [notebooks](https://github.com/cdalvaro/machine-learning-notebooks)
   - [Swift](https://github.com/apple/swift) programming language: [hacking with Swift](https://github.com/cdalvaro/hacking-with-swift)
-  - [Ruby](https://github.com/ruby/ruby) programming language: [notebooks](https://github.com/cdalvaro/ruby-notebooks)
+  - [Ruby](https://github.com/ruby/ruby) programming language: [notebooks](https://github.com/cdalvaro/ruby-notebooks), [advent of code 2023](https://github.com/cdalvaro/advent-of-code)
 - 🎽 I love all kind of sports, but especially calisthenics and running
 - 🎮 Beginner [Fortnite](https://www.epicgames.com/fortnite/en-US/home) player
 
