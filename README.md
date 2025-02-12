@@ -1,4 +1,4 @@
-# Hi, I'm [Carlos](https://cdalvaro.io) 👋
+# Hi, I'm [Carlos](https://cdalvaro.io/about) 👋
 
 <div>
   <a href="https://github.com/cdalvaro"><img src="https://raw.githubusercontent.com/cdalvaro/cdalvaro/main/assets/github.svg" alt="cdalvaro" title="cdalvaro" height="24px" hspace="5px" /></a>
